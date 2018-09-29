@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Noman Assignment</string>
+    <string name="login_button_text">Login</string>
+    <string name="email_enter_error">Please Enter Email!</string>
+    <string name="password_enter_error">Please Enter password!</string>
+    <string name="valid_email_check">Please Enter Valid Email Address!</string>
+    <string name="if_you_are_not_registered_please_register">If you are not Registered! Please Register</string>
+    <string name="password_length">Password length too short, minimun 6!</string>
+    <string name="welcom_to_my_app">Welcome to My App.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_button_text">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="cnfirm_passwrd">Confirm Passwrd</string>
+    <string name="password_match">Password does not match!</string>
+    <string name="home_activity_text">Home</string>
+    <string name="first_name_error">Please Enter First Name</string>
+    <string name="last_name_error">Please Enter Last Name</string>
+</resources>
